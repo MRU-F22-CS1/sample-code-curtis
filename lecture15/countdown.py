@@ -5,7 +5,7 @@ def countdown_timer(n: int) -> None:
     lcv = n
     while lcv > 0:
         print(f"{lcv}...")
-        # lcv -= 1
+        lcv -= 1
     
     print("Blastoff!")
 
