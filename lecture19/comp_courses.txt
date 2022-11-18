@@ -1,0 +1,51 @@
+COMP 1001 - Introduction to Computer-Based Problem Solving for the Sciences
+COMP 1103 - Introduction to Computers
+COMP 1104 - Computing and Digital Citizenry
+COMP 1199 - Directed Readings
+COMP 1205 - Introduction to Computing for Public Relations
+COMP 1207 - Introduction to Computing for Small Business and Entrepreneurship
+COMP 1209 - Introduction to Computing for Applied Degrees
+COMP 1299 - Directed Readings
+COMP 1370 - Introduction to Internet Development
+COMP 1501 - Programming I: Introduction to Problem Solving and Programming
+COMP 1502 - Programming II: Object Oriented Programming
+COMP 1615 - Introduction to Programming
+COMP 1631 - Introduction to Computer Science I
+COMP 1633 - Introduction to Computer Science II
+COMP 2001 - Computer-Based Problem Solving for the Sciences
+COMP 2002 - Creative Problem Solving and Programming
+COMP 2008 - Scientific Computing I: Modeling and Simulation
+COMP 2011 - Directed Field Studies I for Computer Information Systems
+COMP 2503 - Programming III: Data Structures
+COMP 2511 - Web I: Client Development
+COMP 2521 - Database I: Data Modeling and Query Languages
+COMP 2531 - Computer Architecture and Operating Systems
+COMP 2541 - Systems Analysis
+COMP 2613 - Introduction to Computability
+COMP 2631 - Information Structures I
+COMP 2633 - Foundations of Software Engineering
+COMP 2635 - Information Structures II
+COMP 2655 - Computing Machinery I
+COMP 2659 - Computing Machinery II
+COMP 3008 - Scientific Computing II: Data and Visualization
+COMP 3011 - Directed Field Studies II for Computer Information Systems
+COMP 3012 - Robotics
+COMP 3307 - Computing Applications in Small Business and Entrepreneurship
+COMP 3309 - Information Technology and Society
+COMP 3504 - Programming IV: Software Engineering
+COMP 3512 - Web II: Web Application Development
+COMP 3532 - System Administration and Maintenance
+COMP 3533 - Network Infrastructure and Security
+COMP 3551 - GUI Development
+COMP 3553 - Human-Computer Interaction
+COMP 3591 - Mandatory Work Experience
+COMP 3649 - Programming Paradigms
+COMP 4401 - Quality Assurance and Testing
+COMP 4409 - Advanced Internet Application Development
+COMP 4513 - Web III: Advanced Web Development
+COMP 4522 - Database-II: Advanced Databases
+COMP 4535 - Computer Security
+COMP 4543 - Project Management and Quality Assurance
+COMP 4545 - Information Systems Organization
+COMP 4555 - Games Development
+COMP 5590 - Senior Project
