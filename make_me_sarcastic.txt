@@ -1,0 +1,12 @@
+Exceptions
+By now you've seen plenty of Runtime Errors
+
+Sometimes often data from files or user input is not in the correct format
+
+You can try to do an operation, then handle an Exception if it doesn't work:
+
+read a number from the user as a string
+while number is invalid:
+    try converting input to number
+    if that doesn't work:
+        print error message
