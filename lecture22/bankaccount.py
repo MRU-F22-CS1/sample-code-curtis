@@ -1,6 +1,3 @@
-from msilib import change_sequence
-
-
 class BankAccount:
     """
     Represents a bank account
